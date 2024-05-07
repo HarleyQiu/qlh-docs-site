@@ -15,8 +15,8 @@ export default defineConfig({
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Java入门到精通', link: '/docs/back/Java入门到精通.md' },
+          { text: '前端工程化', link: '/docs/front/前端工程化.md' }
         ]
       }
     ],
