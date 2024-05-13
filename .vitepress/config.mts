@@ -15,8 +15,8 @@ export default defineConfig({
       {
         text: 'Examples',
         items: [
-          { text: 'Java入门到精通', link: '/docs/back/Java入门到精通.md' },
-          { text: '前端工程化', link: '/docs/front/前端工程化.md' }
+          { text: 'Java入门到精通', link: '/docs/back/Java.md' },
+          { text: '前端工程化', link: '/docs/front/Web.md' }
         ]
       }
     ],
